@@ -1,5 +1,6 @@
 # The-Smart-MiniGreenhouse
 We aimed to create a miniature greenhouse that could serve as a model for a larger one, designed to independently optimize internal conditions for specific plants (optimal conditions inserted by user). Our focus was on soil humidity, temperature, and light.
+<img src="Plants Garden GIF by Jukebox Saints-3.gif" alt="GIF" width="600">
 
 ## How the system works?
 The system integrates a soil humidity sensor, a temperature sensor, and WiFi to optimize the greenhouse's operation.  
