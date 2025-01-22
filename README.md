@@ -13,7 +13,17 @@ The system integrates a soil humidity sensor, a temperature sensor, and WiFi to 
 
 ## How it's made?
 We used a Large Ikea plastic box to portarait the grenhouse. we drilled 3 square holes in the size of 3 fans that are activated according to temperature, as shown in the following image: 
-![FANS](/Users/orenhasson/Documents/AgroTech_FinalProject/IMG_3485.HEIC)
+
+<img src="IMG_3485.HEIC" alt="FANS" width="500">
+
+In addition, there was a hole made for the temperature sensor, as the following image shows:
+
+LEHAMSHICH ET ZE KSHEYESH YOTER TMUNOT
+
+
+
+
+
  
 
 
