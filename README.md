@@ -63,14 +63,16 @@ A few insights that we recomended to consider doing, and we would have done if w
   
 - Backup for WiFi and MQTT: have a backup for irrigation and For the lights that will work in case that WiFi is down (hence the controller
   don't recieve the current hour) and if MQTT is down. For example, irrigation can be connected to a solenoid directly, and the lights could
-  be operated by hours and not the accurate time, meaning 18 hours off and 6 hours on. 
+  be operated by hours and not the accurate time, meaning 18 hours off and 6 hours on.
+  
+- SOLDERING
   
 
 ### For issues in recreating this project, please add your coments and prespective to our Issues Page.
 ## Expectations VS Reality
 <img src="Assets/aLookFromAbove.jpeg" width="500"> <img src="Assets/HADMAYA.jpeg" width="500">
 
-## Documentations of the Process
+## Documentation of the Process
 <img src="Assets/WiringForReal.jpeg" width="500"> <img src="Assets/SoilSensor_in.jpeg" width="500">
 <img src="Assets/aLookFromAbove.jpeg" width="500"> <img src="Assets/ZivIsWorking.jpeg" width="500"> 
 
