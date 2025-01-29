@@ -1,4 +1,5 @@
 # The-Smart-MiniGreenhouse
+**Authors: Oren Hasson, Daniel Nadav and Ziv Peleg**
 We aimed to create a miniature greenhouse that could serve as a model for a larger one, designed to independently optimize internal conditions for specific plants (optimal conditions inserted by user). Our focus was on soil humidity, temperature, and light.
 <img src="Assets/HADMAYA.jpeg" width="500">
 
