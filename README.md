@@ -26,11 +26,12 @@ The system integrates a soil humidity sensor, a temperature sensor, and WiFi to 
 ## Components:
 - Soil Moisture Sensor (Soil NPK RS485)
 - Temperature Sensor DS18B20
-- Fans
-- FireBeetle ESP32
-- Relay
+- Fans- Computer Fans 12V
+- FireBeetle 2 ESP32-e microcontroller
+- Breadboard
+- Relay Module: SRD-05VDC
 - Outside Power sorce
-- Step Down Converter 
+- DC-DC Step Down Converter Board XL4015
 
 ## How it's made?
 We used a Large Ikea plastic box to portarait the grenhouse. we drilled 3 square holes in the size of 3 fans that are activated according to temperature, as shown in the following image: 
@@ -71,6 +72,7 @@ A few insights that we recomended to consider doing, and we would have done if w
   
 
 ### For issues in recreating this project, please add your coments and prespective to our Issues Page.
+
 ## Expectations VS Reality
 <img src="Assets/aLookFromAbove.jpeg" width="500"> <img src="Assets/HADMAYA.jpeg" width="500">
 
