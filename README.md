@@ -1,7 +1,6 @@
 # The-Smart-MiniGreenhouse
 
 We aimed to create a miniature greenhouse that could serve as a model for a larger one, designed to independently optimize internal conditions for specific plants (optimal conditions inserted by user). Our focus was on soil humidity, temperature, and light.
-<img src="Assets/Plants Garden GIF by Jukebox Saints-3.gif" alt="GIF" width="600">
 
 ## How the system works?
 The system integrates a soil humidity sensor, a temperature sensor, and WiFi to optimize the greenhouse's operation.  
@@ -18,9 +17,9 @@ We used a Large Ikea plastic box to portarait the grenhouse. we drilled 3 square
 
 <img src="Assets/IMG_3485.HEIC" alt="FANS" width="500">
 
-In addition, there was a hole made for the temperature sensor, as the following image shows:
 
-LEHAMSHICH ET ZE KSHEYESH YOTER TMUNOT
+
+
 
 ## Contents
 
