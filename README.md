@@ -76,7 +76,7 @@ A few insights that we recomended to consider doing, and we would have done if w
 <img src="Assets/WiringForReal.jpeg" width="500"> <img src="Assets/SoilSensor_in.jpeg" width="500">
 <img src="Assets/aLookFromAbove.jpeg" width="500"> <img src="Assets/ZivIsWorking.jpeg" width="500"> 
 
-<img src="Assets/Plants Garden GIF by Jukebox Saints-3.gif" width=10500">
+<img src="Assets/Plants Garden GIF by Jukebox Saints-3.gif" width=1000">
 
 
 
