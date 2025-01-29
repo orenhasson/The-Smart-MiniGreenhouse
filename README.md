@@ -44,6 +44,12 @@ The wiring was made according to the following sketch:
 
 <img src="Assets/Wiring_Sketch.jpeg" alt="Sketch" width="500">
 
+The Soil Moisture Sensor we used is analog, and needed to be calibrated in a way that a saturated soil is 100% moisturer, and then ideal moister persentage need to be decided accordingly.
+
+**Useful Links to Operate Sensors:**
+- [Temperature Sensor DS18B20](https://randomnerdtutorials.com/guide-for-ds18b20-temperature-sensor-with-arduino/)
+- [Soil Moisture Sensor](https://www.niubol.com/Agricultural-sensor/Soil-NPK-sensor.html)
+
 We used the Step Down converter to convert voltage of 12V from the outside source to 5V (that is adequate for ESP32 and for the sensors used).
 
 
