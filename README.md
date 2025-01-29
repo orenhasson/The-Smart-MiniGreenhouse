@@ -6,11 +6,11 @@ We aimed to create a miniature greenhouse that could serve as a model for a larg
 ## How the system works?
 The system integrates a soil humidity sensor, a temperature sensor, and WiFi to optimize the greenhouse's operation.  
 
-- Soil Humidity Sensor:  
+- 💧 Soil Humidity Sensor:  
   The sensor is calibrated to 100% for a fully saturated soil benchmark. For a generic plant, 35% humidity is set as optimal. The sensor checks the soil every 20 seconds. If the humidity drops below 35%, irrigation activates for 20 seconds. Afterward, the sensor checks again and repeats the irrigation cycle as needed until optimal humidity is restored.  
-- Temperature Sensor:  
+- 🌡️ Temperature Sensor:  
   Mounted on the greenhouse roof, the temperature sensor triggers a fan when the temperature reaches 30°C or higher.  
-- Lighting Control:  
+- ⛅ Lighting Control:  
   The system connects to WiFi to access real-time data and manage lighting. While primarily for convenience rather than plant health, the lights turn on at 17:00 (5 PM) and off at 23:00 (11 PM) daily.  
 
 ## How it's made?
@@ -22,8 +22,10 @@ In addition, there was a hole made for the temperature sensor, as the following 
 
 LEHAMSHICH ET ZE KSHEYESH YOTER TMUNOT
 
+## Contents
 
-
+- 📁 [Code](/Code/) This folder contains the scripts for operating the system.
+- 📁 [Assets](/Assets/) This folder contains images that depict the mechanical components of the system.
 
 
  
