@@ -1,7 +1,11 @@
 # The-Smart-MiniGreenhouse
-
 We aimed to create a miniature greenhouse that could serve as a model for a larger one, designed to independently optimize internal conditions for specific plants (optimal conditions inserted by user). Our focus was on soil humidity, temperature, and light.
-<img src="Assets/General1.jpeg" width="500">
+<img src="Assets/HADMAYA.jpeg" width="500">
+
+## Contents
+
+- 📁 [Code](/Code/) This folder contains the scripts for operating the system.
+- 📁 [Assets](/Assets/) This folder contains images that depict the mechanical components of the system.
 
 ## How the system works?
 The system integrates a soil humidity sensor, a temperature sensor, and WiFi to optimize the greenhouse's operation.  
@@ -57,14 +61,14 @@ A few insights that we recomended to consider doing, and we would have done if w
   
 
 ### For issues in recreating this project, please add your coments and prespective to our Issues Page.
+## Expectations VS Reality
+<img src="Assets/aLookFromAbove.jpeg" width="500"> <img src="Assets/HADMAYA.jpeg" width="500">
+
+## Documentations of the Process
+<img src="Assets/WiringForReal.jpeg" width="500">  <img src="Assets/ZivIsWorking.jpeg" width="500">
+<img src="Assets/aLookFromAbove.jpeg" width="500">
+<img src="Assets/Plants Garden GIF by Jukebox Saints-3.gif" width="500">
 
 
-## Contents
-
-- 📁 [Code](/Code/) This folder contains the scripts for operating the system.
-- 📁 [Assets](/Assets/) This folder contains images that depict the mechanical components of the system.
-
-
- 
 
 
