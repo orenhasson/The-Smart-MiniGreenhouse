@@ -20,6 +20,7 @@ We used a Large Ikea plastic box to portarait the grenhouse. we drilled 3 square
 In addition there was a hole drilled for the temperature and soil humidity sensors:
 
 
+
 The wiring was made according to the following sketch:
 
 <img src="Assets/Wiring_Sketch.jpeg" alt="Sketch" width="500">
