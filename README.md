@@ -42,7 +42,7 @@ In addition there was a hole drilled for the temperature and soil humidity senso
 
 The wiring was made according to the following sketch:
 
-<img src="Assets/Wiring_Sketch.jpeg" alt="Sketch" width="1000">
+<img src="Assets/Wiring_Sketch.jpeg" alt="Sketch" width="1200">
 
 The Soil Moisture Sensor we used is analog, and needed to be calibrated in a way that a saturated soil is 100% moisturer, and then ideal moister persentage need to be decided accordingly.
 
