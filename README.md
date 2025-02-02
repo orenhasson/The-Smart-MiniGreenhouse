@@ -55,6 +55,13 @@ The Soil Moisture Sensor we used is analog, and needed to be calibrated in a way
 
 We used the Step Down converter to convert voltage of 12V from the outside source to 5V (that is adequate for ESP32 and for the sensors used).
 
+## Live Data From ThingSpeak
+Our system is connected to ThingSpeak, which receives data every minute. You can monitor real-time changes in temperature and soil humidity as they respond to irrigation and fan operation, which activate or deactivate based on high temperature or low humidity.
+
+
+
+
+
 
 ## Suggestions For Recreating This Project
 A few insights that we recomended to consider doing, and we would have done if we were to continue working on this project.
