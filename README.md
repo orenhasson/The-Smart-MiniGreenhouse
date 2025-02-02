@@ -68,17 +68,6 @@ The Soil Moisture Sensor we used is analog, and needed to be calibrated in a way
 
 We used the Step Down converter to convert voltage of 12V from the outside source to 5V (that is adequate for ESP32 and for the sensors used).
 
-## Live Data From ThingSpeak
-Our system is connected to ThingSpeak, which receives data every minute. You can monitor real-time changes in temperature and soil humidity as they respond to irrigation and fan operation, which activate or deactivate based on high temperature or low humidity.
-
-
-The temperature data from ThingSpeak shows that during the sunnier hours of the day, when the temperature goes above 30°C, the fans are triggered and as they operate and the temp drops below 30°C, and that cycle repeats, until the shadier part of the day:
-<img src="Assets/ThingSpeak_Temp.jpeg" width = 500>
-
-Similarly, the soil humidity data shows that when humidity drops below 35%, irrigation is activated, increasing the moisture level, and that cycle continues until the shadier part of the day:
-<img src="Assets/ThingSpeak_Humidity.jpeg" width = 500> 
-
-
 ## Suggestions For Recreating This Project
 A few insights that we recomended to consider doing, and we would have done if we were to continue working on this project.
 
