@@ -23,6 +23,14 @@ The system integrates a soil humidity sensor, a temperature sensor, and WiFi to 
   The system connects to WiFi to access real-time data and manage lighting. While primarily for convenience rather than plant health, the
   lights turn on at 17:00 (5 PM) and off at 23:00 (11 PM) daily.
 
+## Live Data From ThingSpeak
+The temperature data on ThingSpeak shows that during the sunnier hours of the day, when the temperature rises above 30°C, the fans are triggered and as they operate the temperature drops below 30°C. This cycle repeats until the shadier hours of the day: 
+<img src="Assets/ThingSpeak_Temp.jpeg" width=500>
+
+Similarly, the soil humidity data shows that when humidity drops below 35%, irrigation is activated, increasing the moisture level. This cycle repeats until the shadier hours of the day:
+<img src="Assets/ThingSpeak_Humidity.jpeg" width="500">
+  
+
 ## Components:
 - Soil Moisture Sensor (Soil NPK RS485)
 - Temperature Sensor DS18B20
