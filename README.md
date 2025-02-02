@@ -27,9 +27,11 @@ The system integrates a soil humidity sensor, a temperature sensor, and WiFi to 
 ## Live Data From ThingSpeak
 The temperature data on ThingSpeak shows that during the sunnier hours of the day, when the temperature rises above 30°C, the fans are triggered and as they operate the temperature drops below 30°C. This cycle repeats until the shadier hours of the day:
 
+
 <img src="Assets/ThingSpeak_Temp.jpeg" width=500>
 
 Similarly, the soil humidity data shows that when humidity drops below 35%, irrigation is activated, increasing the moisture level. This cycle repeats until the shadier hours of the day:
+
 
 <img src="Assets/ThingSpeak_Humidity.jpeg" width="500">
   
